@@ -1,0 +1,39 @@
+{
+  "data-karyawan": [
+    {
+      "id": 1557298963816,
+      "nama": "putra agung",
+      "jabatan": "Security",
+      "gender": "laki-laki",
+      "birthday": "1991-12-12"
+    },
+    {
+      "id": 1557298993816,
+      "nama": "gerysena",
+      "jabatan": "Marketing",
+      "gender": "laki-laki",
+      "birthday": "2011-01-31"
+    },
+    {
+      "id": 1626085475035,
+      "nama": "Adi",
+      "jabatan": "Operator",
+      "gender": "Laki-laki",
+      "birthday": "2021-07-15"
+    },
+    {
+      "id": 1626085743209,
+      "nama": "Aca Suhendar",
+      "jabatan": "Manager",
+      "gender": "Laki-laki",
+      "birthday": "2021-06-30"
+    },
+    {
+      "id": 1626085875691,
+      "nama": "Acih Pratiwi",
+      "jabatan": "Direktur",
+      "gender": "Perempuan",
+      "birthday": "2021-08-04"
+    }
+  ]
+}

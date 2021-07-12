@@ -1,0 +1,10 @@
++ @popperjs/core@2.9.2
++ @babel/core@7.13.0
++ typescript@4.3.5
+added 5 packages from 3 contributors, updated 2 packages and audited 2044 packages in 29.368s
+
+155 packages are looking for funding
+  run `npm fund` for details
+
+found 5 vulnerabilities (3 moderate, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
